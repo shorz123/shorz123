@@ -2,8 +2,8 @@
 
 Hi, I'm Trino 👋
 
-.NET Software Engineer
-13+ years in the electrical industry
+.NET Software Engineer | Western Governors University
+
 
 Building applications with:
 ✓ C#
