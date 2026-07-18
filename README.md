@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**shorz123/shorz123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi, I'm Trino 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+.NET Software Engineer
+13+ years in the electrical industry
+
+Building applications with:
+✓ C#
+✓ ASP.NET Core
+✓ React
+✓ TypeScript
+✓ Entity Framework Core
+✓ PostgreSQL
+✓ Azure
+
+
+🚧 CURRENT PROJECTS 
+- Expense Tracker
+- CEU Platform
+
+
+📫 CONNECT 
+LinkedIn: linkedin.com/in/trino-o-603a1b21b
+
+
