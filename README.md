@@ -16,7 +16,7 @@ Building applications with:
 
 
 ## 🚀 CURRENT PROJECTS 
-Expense Tracker
+### Expense Tracker
 Full-stack expense management application built with ASP.NET Core and React.
 
 ### CEU Platform
